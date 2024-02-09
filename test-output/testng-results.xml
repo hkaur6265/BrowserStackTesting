@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-09T16:29:12 IST" name="Suite" finished-at="2024-02-09T16:29:58 IST" duration-ms="45502">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T16:29:12 IST" name="Test" finished-at="2024-02-09T16:29:58 IST" duration-ms="45502">
+      <class name="browserStack.TestCase1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:browserStack.TestCase1@4b741d6d]" started-at="2024-02-09T16:29:12 IST" name="setup" finished-at="2024-02-09T16:29:30 IST" duration-ms="17464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:browserStack.TestCase1@4b741d6d]" started-at="2024-02-09T16:29:30 IST" name="verifyLogin" finished-at="2024-02-09T16:29:56 IST" duration-ms="26616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:browserStack.TestCase1@4b741d6d]" started-at="2024-02-09T16:29:56 IST" name="tearDown" finished-at="2024-02-09T16:29:58 IST" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- browserStack.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
